@@ -12,6 +12,6 @@ export default withNextra({
   reactStrictMode: true,
     images: {
     formats: ['image/avif', 'image/webp'],
-    domains: ['nextra.paulapplegate.com'],
+    domains: ['nextra-blog.paulapplegate.com'],
   },
 })
