@@ -12,6 +12,6 @@ export default withNextra({
   reactStrictMode: true,
     images: {
     formats: ['image/avif', 'image/webp'],
-    domains: ['nextra-blog.paulapplegate.com'],
+    domains: ['nextra-blog.paulapplegate.com', 'probable-fiesta-w-blog-ci4i52gbt-paul29.vercel.app'],
   },
 })
