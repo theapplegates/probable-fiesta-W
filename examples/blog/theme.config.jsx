@@ -9,7 +9,7 @@ export default {
       >
         CC BY-NC 4.0
       </abbr>{' '}
-      <time>{new Date().getFullYear()}</time> © Shu Ding.
+      <time>{new Date().getFullYear()}</time> © Paul Applegate.
       <a href="/feed.xml">RSS</a>
       <style jsx>{`
         a {
