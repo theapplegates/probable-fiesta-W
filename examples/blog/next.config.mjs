@@ -9,5 +9,8 @@ const withNextra = nextra({
 })
 
 export default withNextra({
+    images: {
+    formats: ['image/avif', 'image/webp'],
+  },
   reactStrictMode: true
 })
